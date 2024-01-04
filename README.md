@@ -1,0 +1,1 @@
+# stockfinder2.0
